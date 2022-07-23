@@ -1,0 +1,12 @@
+     <i class="fa-solid fa-paper-plane mx-3"></i>
+     btn-block
+     toLocaleString('en-US')
+     toFixed(0)
+     @if($role->id <= 1)
+
+      'columnDefs': [
+                 {
+                     "orderable": false,
+                     'targets': [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, /*12, 13*/],
+                     render: $.fn.dataTable.render.number(',', '.', 0, '')
+                 },

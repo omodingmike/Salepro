@@ -1,7 +1,6 @@
 # salepro
  Sales management system developed in laravel\
- &nbsp;
-&nbsp;
+
 Login credentials\
 Owner\
 username: 	owner@mailinator.com\

@@ -5,13 +5,13 @@ Salepro is a management system made in laravel to manage a vendors shop by track
 ## Features
 Salepro manages the following.
 - Stock.
-- Purchases
+- Purchases.
 - Sales.
 - Expenses.
 - Returns.
-- Accounting
+- Accounting.
 - Human resource.
-- Reports
+- Reports.
 
 ## Project link
 The project can be found [here](https://sales.techuganda.org/)
